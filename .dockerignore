@@ -1,5 +1,8 @@
-node_modules
-dist
-.env
-.eslintcache
-.DS_Store
+.git
+.gitignore
+README.md
+LICENSE
+docker-compose.yml
+docker-compose.core.yml
+.env.sample
+**/node_modules
